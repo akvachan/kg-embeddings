@@ -1,0 +1,501 @@
+Head,Relation,Tail
+Aspirin,treats,Asthma
+Ciprofloxacin,treats,Allergy
+Headache,symptom of,Hypertension
+Nausea,symptom of,Stroke
+Losartan,treats,Parkinson's Disease
+Ciprofloxacin,treats,Tuberculosis
+Lisinopril,treats,Asthma
+Cough,symptom of,Diabetes
+Parkinson's Disease,affects,Spine
+Cancer,affects,Brain
+Hypertension,affects,Skin
+Ciprofloxacin,treats,Parkinson's Disease
+Amoxicillin,treats,Asthma
+Omeprazole,treats,Heart Disease
+Cancer,affects,Liver
+Albuterol,treats,Depression
+Heart Disease,affects,Blood
+Parkinson's Disease,affects,Ear
+Aspirin,treats,Depression
+Gabapentin,treats,Hypertension
+Dizziness,symptom of,Heart Disease
+Fatigue,symptom of,Hypertension
+Shortness of Breath,symptom of,Migraine
+Lisinopril,treats,Depression
+Abdominal Pain,symptom of,Hypertension
+Losartan,treats,Asthma
+Stroke,affects,Brain
+Epilepsy,affects,Joint
+Migraine,affects,Skin
+Cancer,affects,Heart
+Omeprazole,treats,Tuberculosis
+Albuterol,treats,Arthritis
+Albuterol,treats,Hepatitis
+Ciprofloxacin,treats,Asthma
+Hypertension,affects,Spine
+Aspirin,treats,Arthritis
+Depression,affects,Skin
+Omeprazole,treats,Parkinson's Disease
+Dizziness,symptom of,Tuberculosis
+Dizziness,symptom of,Osteoporosis
+Blurred Vision,symptom of,Heart Disease
+Aspirin,treats,Hepatitis
+Dizziness,symptom of,Migraine
+Epilepsy,affects,Stomach
+Weight Loss,symptom of,Heart Disease
+Chest Pain,symptom of,Allergy
+Chest Pain,symptom of,Epilepsy
+Aspirin,treats,Cancer
+Lisinopril,treats,Arthritis
+Migraine,affects,Intestine
+Epilepsy,affects,Pancreas
+Hypertension,affects,Blood
+Hypertension,affects,Ear
+Losartan,treats,Depression
+Lisinopril,treats,Hepatitis
+Lisinopril,treats,Cancer
+Heart Disease,affects,Thyroid
+Parkinson's Disease,affects,Kidney
+Headache,symptom of,Epilepsy
+Epilepsy,affects,Lung
+Migraine,affects,Spine
+Gabapentin,treats,Heart Disease
+Headache,symptom of,Diabetes
+Insomnia,symptom of,Heart Disease
+Lisinopril,treats,Stroke
+Ciprofloxacin,treats,Depression
+Parkinson's Disease,affects,Joint
+Depression,affects,Spine
+Arthritis,affects,Joint
+Heart Disease,affects,Brain
+Tuberculosis,affects,Joint
+Weight Loss,symptom of,Parkinson's Disease
+Losartan,treats,Hepatitis
+Parkinson's Disease,affects,Stomach
+Gabapentin,treats,Epilepsy
+Gabapentin,treats,Allergy
+Fatigue,symptom of,Epilepsy
+Parkinson's Disease,affects,Pancreas
+Insomnia,symptom of,Tuberculosis
+Ciprofloxacin,treats,Arthritis
+Fatigue,symptom of,Diabetes
+Anxiety,symptom of,Heart Disease
+Hypertension,affects,Kidney
+Chest Pain,symptom of,Asthma
+Arthritis,affects,Liver
+Amoxicillin,treats,Heart Disease
+Ciprofloxacin,treats,Hepatitis
+Arthritis,affects,Stomach
+Albuterol,treats,Osteoporosis
+Rash,symptom of,Hypertension
+Albuterol,treats,Migraine
+Arthritis,affects,Pancreas
+Gabapentin,treats,Parkinson's Disease
+Osteoporosis,affects,Skin
+Aspirin,treats,Osteoporosis
+Parkinson's Disease,affects,Lung
+Epilepsy,affects,Intestine
+Hepatitis,affects,Skin
+Lisinopril,treats,Osteoporosis
+Blurred Vision,symptom of,Asthma
+Lisinopril,treats,Migraine
+Anxiety,symptom of,Allergy
+Dizziness,symptom of,Depression
+Fever,symptom of,Heart Disease
+Arthritis,affects,Lung
+Weight Loss,symptom of,Asthma
+Diabetes,affects,Joint
+Epilepsy,affects,Spine
+Parkinson's Disease,affects,Intestine
+Heart Disease,affects,Eye
+Amoxicillin,treats,Tuberculosis
+Amoxicillin,treats,Osteoporosis
+Sertraline,treats,Epilepsy
+Loratadine,treats,Allergy
+Loratadine,treats,Epilepsy
+Osteoporosis,affects,Intestine
+Hypertension,affects,Liver
+Hypertension,affects,Stomach
+Omeprazole,treats,Arthritis
+Loratadine,treats,Diabetes
+Migraine,affects,Joint
+Cough,symptom of,Heart Disease
+Epilepsy,affects,Ear
+Shortness of Breath,symptom of,Hypertension
+Gabapentin,treats,Asthma
+Insomnia,symptom of,Asthma
+Arthritis,affects,Skin
+Fever,symptom of,Allergy
+Simvastatin,treats,Allergy
+Simvastatin,treats,Epilepsy
+Sertraline,treats,Parkinson's Disease
+Allergy,affects,Pancreas
+Tuberculosis,affects,Skin
+Osteoporosis,affects,Spine
+Blurred Vision,symptom of,Depression
+Losartan,treats,Osteoporosis
+Weight Loss,symptom of,Depression
+Losartan,treats,Migraine
+Simvastatin,treats,Diabetes
+Hypertension,affects,Heart
+Metformin,treats,Hypertension
+Dizziness,symptom of,Hepatitis
+Dizziness,symptom of,Cancer
+Hepatitis,affects,Spine
+Chest Pain,symptom of,Arthritis
+Migraine,affects,Stomach
+Fever,symptom of,Parkinson's Disease
+Simvastatin,treats,Parkinson's Disease
+Migraine,affects,Pancreas
+Ciprofloxacin,treats,Osteoporosis
+Arthritis,affects,Intestine
+Cough,symptom of,Tuberculosis
+Ciprofloxacin,treats,Migraine
+Dizziness,symptom of,Stroke
+Tuberculosis,affects,Intestine
+Depression,affects,Liver
+Ibuprofen,treats,Epilepsy
+Hypertension,affects,Eye
+Depression,affects,Stomach
+Insomnia,symptom of,Depression
+Gabapentin,treats,Depression
+Anxiety,symptom of,Asthma
+Joint Pain,symptom of,Diabetes
+Depression,affects,Pancreas
+Blurred Vision,symptom of,Arthritis
+Rash,symptom of,Epilepsy
+Ibuprofen,treats,Diabetes
+Migraine,affects,Lung
+Cough,symptom of,Parkinson's Disease
+Weight Loss,symptom of,Arthritis
+Parkinson's Disease,affects,Blood
+Blurred Vision,symptom of,Hepatitis
+Paracetamol,treats,Hypertension
+Blurred Vision,symptom of,Cancer
+Arthritis,affects,Spine
+Loratadine,treats,Asthma
+Weight Loss,symptom of,Hepatitis
+Allergy,affects,Skin
+Weight Loss,symptom of,Cancer
+Tuberculosis,affects,Spine
+Epilepsy,affects,Thyroid
+Prednisone,treats,Epilepsy
+Depression,affects,Lung
+Prednisone,treats,Diabetes
+Arthritis,affects,Blood
+Arthritis,affects,Ear
+Blurred Vision,symptom of,Stroke
+Chest Pain,symptom of,Heart Disease
+Simvastatin,treats,Asthma
+Weight Loss,symptom of,Stroke
+Asthma,affects,Joint
+Tuberculosis,affects,Ear
+Gabapentin,treats,Arthritis
+Anxiety,symptom of,Depression
+Prednisone,treats,Parkinson's Disease
+Omeprazole,treats,Osteoporosis
+Insomnia,symptom of,Hepatitis
+Gabapentin,treats,Cancer
+Osteoporosis,affects,Kidney
+Allergy,affects,Intestine
+Omeprazole,treats,Migraine
+Diabetes,affects,Intestine
+Stroke,affects,Joint
+Loratadine,treats,Depression
+Epilepsy,affects,Brain
+Cough,symptom of,Asthma
+Shortness of Breath,symptom of,Epilepsy
+Asthma,affects,Stomach
+Epilepsy,affects,Liver
+Insomnia,symptom of,Stroke
+Gabapentin,treats,Stroke
+Osteoporosis,affects,Joint
+Shortness of Breath,symptom of,Diabetes
+Asthma,affects,Pancreas
+Allergy,affects,Spine
+Chest Pain,symptom of,Tuberculosis
+Chest Pain,symptom of,Osteoporosis
+Albuterol,treats,Hypertension
+Chest Pain,symptom of,Migraine
+Hepatitis,affects,Joint
+Anxiety,symptom of,Arthritis
+Parkinson's Disease,affects,Thyroid
+Aspirin,treats,Hypertension
+Amoxicillin,treats,Arthritis
+Nausea,symptom of,Epilepsy
+Anxiety,symptom of,Hepatitis
+Diabetes,affects,Ear
+Asthma,affects,Lung
+Osteoporosis,affects,Liver
+Amoxicillin,treats,Hepatitis
+Amoxicillin,treats,Cancer
+Headache,symptom of,Tuberculosis
+Osteoporosis,affects,Stomach
+Epilepsy,affects,Heart
+Nausea,symptom of,Diabetes
+Lisinopril,treats,Hypertension
+Arthritis,affects,Thyroid
+Arthritis,affects,Kidney
+Metformin,treats,Parkinson's Disease
+Cough,symptom of,Depression
+Tuberculosis,affects,Kidney
+Loratadine,treats,Hepatitis
+Loratadine,treats,Cancer
+Hepatitis,affects,Liver
+Weight Loss,symptom of,Osteoporosis
+Hepatitis,affects,Stomach
+Migraine,affects,Blood
+Nausea,symptom of,Parkinson's Disease
+Weight Loss,symptom of,Migraine
+Stroke,affects,Lung
+Hepatitis,affects,Pancreas
+Fever,symptom of,Arthritis
+Migraine,affects,Ear
+Simvastatin,treats,Arthritis
+Paracetamol,treats,Epilepsy
+Parkinson's Disease,affects,Brain
+Fever,symptom of,Hepatitis
+Epilepsy,affects,Eye
+Osteoporosis,affects,Lung
+Fever,symptom of,Cancer
+Asthma,affects,Skin
+Depression,affects,Blood
+Fatigue,symptom of,Allergy
+Gabapentin,treats,Tuberculosis
+Gabapentin,treats,Osteoporosis
+Fatigue,symptom of,Tuberculosis
+Arthritis,affects,Brain
+Abdominal Pain,symptom of,Allergy
+Abdominal Pain,symptom of,Epilepsy
+Cough,symptom of,Arthritis
+Gabapentin,treats,Migraine
+Insomnia,symptom of,Migraine
+Paracetamol,treats,Parkinson's Disease
+Fever,symptom of,Stroke
+Stroke,affects,Skin
+Cough,symptom of,Hepatitis
+Cough,symptom of,Cancer
+Fatigue,symptom of,Parkinson's Disease
+Metformin,treats,Asthma
+Sertraline,treats,Heart Disease
+Loratadine,treats,Heart Disease
+Allergy,affects,Kidney
+Allergy,affects,Thyroid
+Diabetes,affects,Kidney
+Headache,symptom of,Asthma
+Cough,symptom of,Stroke
+Arthritis,affects,Heart
+Stroke,affects,Intestine
+Tuberculosis,affects,Lung
+Migraine,affects,Kidney
+Anxiety,symptom of,Osteoporosis
+Asthma,affects,Spine
+Migraine,affects,Thyroid
+Albuterol,treats,Epilepsy
+Anxiety,symptom of,Migraine
+Parkinson's Disease,affects,Eye
+Sertraline,treats,Allergy
+Albuterol,treats,Diabetes
+Aspirin,treats,Epilepsy
+Paracetamol,treats,Asthma
+Loratadine,treats,Osteoporosis
+Loratadine,treats,Tuberculosis
+Asthma,affects,Blood
+Depression,affects,Thyroid
+Asthma,affects,Ear
+Hepatitis,affects,Intestine
+Stroke,affects,Spine
+Aspirin,treats,Diabetes
+Arthritis,affects,Eye
+Diabetes,affects,Liver
+Lisinopril,treats,Epilepsy
+Allergy,affects,Stomach
+Headache,symptom of,Depression
+Diabetes,affects,Stomach
+Joint Pain,symptom of,Heart Disease
+Diabetes,affects,Pancreas
+Ibuprofen,treats,Heart Disease
+Fever,symptom of,Osteoporosis
+Abdominal Pain,symptom of,Asthma
+Stroke,affects,Blood
+Simvastatin,treats,Osteoporosis
+Simvastatin,treats,Tuberculosis
+Fever,symptom of,Migraine
+Stroke,affects,Ear
+Simvastatin,treats,Migraine
+Omeprazole,treats,Hypertension
+Osteoporosis,affects,Blood
+Metformin,treats,Arthritis
+Allergy,affects,Heart
+Diabetes,affects,Heart
+Depression,affects,Brain
+Hepatitis,affects,Blood
+Cough,symptom of,Osteoporosis
+Dizziness,symptom of,Hypertension
+Joint Pain,symptom of,Epilepsy
+Hepatitis,affects,Ear
+Cough,symptom of,Migraine
+Nausea,symptom of,Arthritis
+Headache,symptom of,Arthritis
+Ibuprofen,treats,Allergy
+Ibuprofen,treats,Tuberculosis
+Chest Pain,symptom of,Stroke
+Headache,symptom of,Hepatitis
+Headache,symptom of,Cancer
+Abdominal Pain,symptom of,Depression
+Migraine,affects,Heart
+Losartan,treats,Diabetes
+Rash,symptom of,Tuberculosis
+Allergy,affects,Eye
+Heart Disease,affects,Intestine
+Sertraline,treats,Asthma
+Joint Pain,symptom of,Parkinson's Disease
+Asthma,affects,Thyroid
+Ibuprofen,treats,Parkinson's Disease
+Ciprofloxacin,treats,Epilepsy
+Headache,symptom of,Stroke
+Paracetamol,treats,Arthritis
+Prednisone,treats,Tuberculosis
+Rash,symptom of,Parkinson's Disease
+Tuberculosis,affects,Blood
+Weight Loss,symptom of,Hypertension
+Migraine,affects,Eye
+Stroke,affects,Kidney
+Heart Disease,affects,Spine
+Fatigue,symptom of,Hepatitis
+Fatigue,symptom of,Cancer
+Cancer,affects,Stomach
+Depression,affects,Eye
+Abdominal Pain,symptom of,Hepatitis
+Abdominal Pain,symptom of,Cancer
+Heart Disease,affects,Ear
+Asthma,affects,Brain
+Sertraline,treats,Depression
+Hepatitis,affects,Kidney
+Hepatitis,affects,Thyroid
+Shortness of Breath,symptom of,Allergy
+Asthma,affects,Liver
+Shortness of Breath,symptom of,Tuberculosis
+Fatigue,symptom of,Stroke
+Ibuprofen,treats,Asthma
+Abdominal Pain,symptom of,Stroke
+Simvastatin,treats,Depression
+Cancer,affects,Lung
+Omeprazole,treats,Epilepsy
+Stroke,affects,Liver
+Metformin,treats,Osteoporosis
+Metformin,treats,Tuberculosis
+Osteoporosis,affects,Brain
+Metformin,treats,Migraine
+Sertraline,treats,Arthritis
+Nausea,symptom of,Osteoporosis
+Headache,symptom of,Osteoporosis
+Prednisone,treats,Asthma
+Nausea,symptom of,Tuberculosis
+Dizziness,symptom of,Allergy
+Dizziness,symptom of,Epilepsy
+Nausea,symptom of,Migraine
+Headache,symptom of,Migraine
+Hepatitis,affects,Brain
+Tuberculosis,affects,Thyroid
+Sertraline,treats,Hepatitis
+Sertraline,treats,Cancer
+Dizziness,symptom of,Diabetes
+Anxiety,symptom of,Hypertension
+Joint Pain,symptom of,Depression
+Amoxicillin,treats,Hypertension
+Stroke,affects,Heart
+Ibuprofen,treats,Depression
+Dizziness,symptom of,Parkinson's Disease
+Asthma,affects,Eye
+Heart Disease,affects,Kidney
+Sertraline,treats,Stroke
+Paracetamol,treats,Tuberculosis
+Paracetamol,treats,Osteoporosis
+Simvastatin,treats,Cancer
+Paracetamol,treats,Migraine
+Shortness of Breath,symptom of,Asthma
+Hepatitis,affects,Heart
+Prednisone,treats,Depression
+Fatigue,symptom of,Osteoporosis
+Blurred Vision,symptom of,Epilepsy
+Fatigue,symptom of,Migraine
+Fever,symptom of,Hypertension
+Weight Loss,symptom of,Epilepsy
+Tuberculosis,affects,Brain
+Losartan,treats,Hypertension
+Cancer,affects,Intestine
+Simvastatin,treats,Stroke
+Blurred Vision,symptom of,Diabetes
+Joint Pain,symptom of,Arthritis
+Albuterol,treats,Heart Disease
+Weight Loss,symptom of,Diabetes
+Osteoporosis,affects,Eye
+Ibuprofen,treats,Arthritis
+Joint Pain,symptom of,Hepatitis
+Joint Pain,symptom of,Cancer
+Rash,symptom of,Arthritis
+Blurred Vision,symptom of,Parkinson's Disease
+Ibuprofen,treats,Hepatitis
+Ibuprofen,treats,Cancer
+Hepatitis,affects,Eye
+Cancer,affects,Spine
+Cough,symptom of,Hypertension
+Heart Disease,affects,Liver
+Rash,symptom of,Hepatitis
+Insomnia,symptom of,Epilepsy
+Dizziness,symptom of,Asthma
+Prednisone,treats,Arthritis
+Heart Disease,affects,Pancreas
+Joint Pain,symptom of,Stroke
+Shortness of Breath,symptom of,Depression
+Insomnia,symptom of,Diabetes
+Ibuprofen,treats,Stroke
+Albuterol,treats,Allergy
+Cancer,affects,Blood
+Prednisone,treats,Cancer
+Cancer,affects,Ear
+Albuterol,treats,Tuberculosis
+Rash,symptom of,Stroke
+Aspirin,treats,Allergy
+Metformin,treats,Depression
+Allergy,affects,Brain
+Heart Disease,affects,Lung
+Sertraline,treats,Migraine
+Aspirin,treats,Tuberculosis
+Diabetes,affects,Brain
+Hypertension,affects,Joint
+Lisinopril,treats,Allergy
+Albuterol,treats,Parkinson's Disease
+Lisinopril,treats,Tuberculosis
+Aspirin,treats,Parkinson's Disease
+Anxiety,symptom of,Epilepsy
+Shortness of Breath,symptom of,Arthritis
+Losartan,treats,Heart Disease
+Amoxicillin,treats,Allergy
+Anxiety,symptom of,Diabetes
+Shortness of Breath,symptom of,Hepatitis
+Shortness of Breath,symptom of,Cancer
+Lisinopril,treats,Parkinson's Disease
+Amoxicillin,treats,Diabetes
+Parkinson's Disease,affects,Skin
+Paracetamol,treats,Depression
+Anxiety,symptom of,Parkinson's Disease
+Ciprofloxacin,treats,Heart Disease
+Joint Pain,symptom of,Tuberculosis
+Fever,symptom of,Epilepsy
+Losartan,treats,Allergy
+Losartan,treats,Epilepsy
+Chest Pain,symptom of,Hypertension
+Ibuprofen,treats,Osteoporosis
+Cancer,affects,Kidney
+Joint Pain,symptom of,Migraine
+Cancer,affects,Thyroid
+Ibuprofen,treats,Migraine
+Albuterol,treats,Asthma
+Fever,symptom of,Diabetes
+Depression,affects,Joint
+Rash,symptom of,Osteoporosis
+Metformin,treats,Stroke
+Rash,symptom of,Migraine
