@@ -26,5 +26,3 @@
 ## WARNING
 
 **Medical knowledge graph is a randomly generated dataset by GPT. It contains NO REAL MEDICAL DATA. It must be used for illustration purposes only, to test embedding algorithms on unbiased, custom datasets.**
-
-## END WARNING
