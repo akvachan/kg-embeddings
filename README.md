@@ -1,3 +1,7 @@
+# kg-embeddings
+
+Messing with the knowledge graph embeddings.
+
 ## Info
 
 ![Embeddings](https://github.com/user-attachments/assets/3104ef78-bc95-4363-b53a-3b0f7a73e0f1)
