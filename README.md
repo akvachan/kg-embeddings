@@ -6,7 +6,7 @@ Messing with the knowledge graph embeddings.
 
 ## Info
 
-[What the heck are knowledge graph emdeddings?](https://docs.google.com/presentation/d/1i-wK_lPTBAhnfbyhWYvnXNtsssfuHwVRJy6pNnRSJYo/edit?usp=sharing)
+[What the heck are knowledge graph emdeddings?]()
 
 - **Embedding Models:** TransE, DistMult, ComplEx, ConvE
 - **Evaluation Metrics:** Hits10, Mean
